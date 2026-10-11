@@ -1,0 +1,241 @@
+date,campaign_id,campaign_name,channel,audience,campaign_goal,spend,clicks,conversions,revenue,impressions,currency
+2026-09-01,FB001,Facebook Prospecting,Facebook,New Customers,Sales,163.64,201,5,406.2,6946,USD
+2026-09-01,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,112.42,129,6,543.38,10169,USD
+2026-09-01,IG001,Instagram Product Launch,Instagram,New Customers,Sales,124.24,141,4,296.97,5232,USD
+2026-09-01,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,96.71,147,12,0.00,4801,USD
+2026-09-01,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,72.23,103,3,304.94,6613,USD
+2026-09-01,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,76.89,168,2,132.39,5335,USD
+2026-09-01,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,88.53,74,2,179.29,2152,USD
+2026-09-01,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,57.08,85,1,66.54,2671,USD
+2026-09-02,FB001,Facebook Prospecting,Facebook,New Customers,Sales,159.8,158,4,325.28,8469,USD
+2026-09-02,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,87.35,122,6,527.49,4583,USD
+2026-09-02,IG001,Instagram Product Launch,Instagram,New Customers,Sales,132.43,157,5,376.59,4681,USD
+2026-09-02,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,100.63,135,8,0.00,4692,USD
+2026-09-02,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,77.88,126,5,539.7,5079,USD
+2026-09-02,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,69.8,132,2,136.2,10362,USD
+2026-09-02,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,78.73,77,1,96.88,2395,USD
+2026-09-02,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,55.55,80,1,70.39,3547,USD
+2026-09-03,FB001,Facebook Prospecting,Facebook,New Customers,Sales,140.42,160,5,409.6,6288,USD
+2026-09-03,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,121.71,161,8,809.24,6788,USD
+2026-09-03,IG001,Instagram Product Launch,Instagram,New Customers,Sales,117.09,154,5,405.07,5096,USD
+2026-09-03,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,92.04,147,10,0.00,4211,USD
+2026-09-03,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,91.05,125,4,378.96,4374,USD
+2026-09-03,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,69.72,144,1,74.03,9886,USD
+2026-09-03,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,82.78,76,2,191.38,4209,USD
+2026-09-03,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,60.01,101,1,69.82,5354,USD
+2026-09-04,FB001,Facebook Prospecting,Facebook,New Customers,Sales,163.61,167,4,362.06,6843,USD
+2026-09-04,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,116.7,148,6,532.59,11889,USD
+2026-09-04,IG001,Instagram Product Launch,Instagram,New Customers,Sales,164.03,167,8,607.67,12526,USD
+2026-09-04,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,109.36,134,8,0.00,5781,USD
+2026-09-04,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,74.49,108,4,388.78,4710,USD
+2026-09-04,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,66.29,149,2,141.79,8832,USD
+2026-09-04,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,86.34,73,1,85.65,2092,USD
+2026-09-04,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,63.6,98,1,60.07,5708,USD
+2026-09-05,FB001,Facebook Prospecting,Facebook,New Customers,Sales,144.96,149,4,324.75,10929,USD
+2026-09-05,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,110.51,154,12,1183.41,11299,USD
+2026-09-05,IG001,Instagram Product Launch,Instagram,New Customers,Sales,125.33,136,4,292.76,4058,USD
+2026-09-05,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,97.7,137,12,0.00,4481,USD
+2026-09-05,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,78.85,140,4,413.58,6156,USD
+2026-09-05,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,70.96,141,2,132.43,6632,USD
+2026-09-05,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,79.54,65,1,83.49,2912,USD
+2026-09-05,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,58.13,94,1,70.5,4236,USD
+2026-09-06,FB001,Facebook Prospecting,Facebook,New Customers,Sales,177.4,184,4,378.35,5892,USD
+2026-09-06,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,124.7,142,11,944.46,6129,USD
+2026-09-06,IG001,Instagram Product Launch,Instagram,New Customers,Sales,123.97,145,4,308.35,4183,USD
+2026-09-06,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,86.08,110,8,0.00,5062,USD
+2026-09-06,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,106.46,145,4,438.35,9319,USD
+2026-09-06,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,59.71,109,1,72.61,3732,USD
+2026-09-06,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,69.94,62,1,95.28,3969,USD
+2026-09-06,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,71.06,123,1,66.24,4468,USD
+2026-09-07,FB001,Facebook Prospecting,Facebook,New Customers,Sales,138.58,165,6,489.81,6427,USD
+2026-09-07,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,110.01,145,9,831.77,4329,USD
+2026-09-07,IG001,Instagram Product Launch,Instagram,New Customers,Sales,123.44,132,4,309.41,4809,USD
+2026-09-07,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,87.4,128,11,0.00,9365,USD
+2026-09-07,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,88.5,120,5,480.19,7100,USD
+2026-09-07,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,58.9,109,2,154.92,5317,USD
+2026-09-07,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,73.36,61,2,181.98,1758,USD
+2026-09-07,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,63.7,113,1,62.39,4146,USD
+2026-09-08,FB001,Facebook Prospecting,Facebook,New Customers,Sales,182.21,215,5,396.21,8696,USD
+2026-09-08,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,95.44,119,8,692.37,4476,USD
+2026-09-08,IG001,Instagram Product Launch,Instagram,New Customers,Sales,126.78,145,7,591.28,10267,USD
+2026-09-08,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,92.1,137,7,0.00,4607,USD
+2026-09-08,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,94.94,160,5,530.43,7327,USD
+2026-09-08,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,52.25,125,2,155.63,5092,USD
+2026-09-08,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,96.38,86,1,82.37,4505,USD
+2026-09-08,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,69.58,97,1,70.19,5763,USD
+2026-09-09,FB001,Facebook Prospecting,Facebook,New Customers,Sales,139.47,167,6,555.64,7823,USD
+2026-09-09,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,110.07,157,12,1184.5,4557,USD
+2026-09-09,IG001,Instagram Product Launch,Instagram,New Customers,Sales,157.4,160,4,330.95,8147,USD
+2026-09-09,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,111.37,142,13,0.00,4633,USD
+2026-09-09,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,81.61,117,3,338.45,3685,USD
+2026-09-09,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,57.78,110,1,69.19,3631,USD
+2026-09-09,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,75.74,80,1,85.94,2509,USD
+2026-09-09,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,71.21,116,1,63.7,3356,USD
+2026-09-10,FB001,Facebook Prospecting,Facebook,New Customers,Sales,157.25,146,3,282.27,9064,USD
+2026-09-10,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,124.43,172,8,726.37,5981,USD
+2026-09-10,IG001,Instagram Product Launch,Instagram,New Customers,Sales,129.57,143,6,463.12,5661,USD
+2026-09-10,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,85.68,112,6,0.00,3365,USD
+2026-09-10,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,91.38,134,5,542.92,6576,USD
+2026-09-10,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,53.82,107,1,69.32,3396,USD
+2026-09-10,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,92.47,89,2,174.74,4187,USD
+2026-09-10,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,55.1,94,1,70.72,3408,USD
+2026-09-11,FB001,Facebook Prospecting,Facebook,New Customers,Sales,179.97,183,5,434.12,15238,USD
+2026-09-11,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,96.05,126,8,758.77,5552,USD
+2026-09-11,IG001,Instagram Product Launch,Instagram,New Customers,Sales,136.76,170,7,597.37,5609,USD
+2026-09-11,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,82.45,131,10,0.00,4933,USD
+2026-09-11,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,84.07,120,4,434.51,6990,USD
+2026-09-11,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,57.18,139,1,71.64,4407,USD
+2026-09-11,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,70.48,66,2,167.12,2356,USD
+2026-09-11,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,59.87,98,1,58.57,3348,USD
+2026-09-12,FB001,Facebook Prospecting,Facebook,New Customers,Sales,171.74,205,6,482.55,6024,USD
+2026-09-12,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,105.75,157,8,787.28,6978,USD
+2026-09-12,IG001,Instagram Product Launch,Instagram,New Customers,Sales,156.88,170,9,724.57,5022,USD
+2026-09-12,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,109.87,148,13,0.00,6269,USD
+2026-09-12,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,101.9,157,6,660.7,6851,USD
+2026-09-12,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,58.74,132,2,151.66,5502,USD
+2026-09-12,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,89.31,87,1,85.19,4767,USD
+2026-09-12,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,55.67,83,1,61.51,2968,USD
+2026-09-13,FB001,Facebook Prospecting,Facebook,New Customers,Sales,167.8,203,6,520.4,9414,USD
+2026-09-13,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,92.69,122,9,841.92,4358,USD
+2026-09-13,IG001,Instagram Product Launch,Instagram,New Customers,Sales,159.98,168,6,427.16,8362,USD
+2026-09-13,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,104.63,131,13,0.00,6054,USD
+2026-09-13,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,98.91,152,5,495.66,8917,USD
+2026-09-13,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,63.33,154,2,149.16,7230,USD
+2026-09-13,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,73.61,68,1,91.18,5388,USD
+2026-09-13,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,57.46,85,0,0.0,5621,USD
+2026-09-14,FB001,Facebook Prospecting,Facebook,New Customers,Sales,152.63,186,5,405.2,9530,USD
+2026-09-14,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,115.97,154,11,1079.18,8651,USD
+2026-09-14,IG001,Instagram Product Launch,Instagram,New Customers,Sales,116.59,155,6,521.39,7731,USD
+2026-09-14,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,100.71,129,11,0.00,4396,USD
+2026-09-14,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,106.19,182,4,390.8,12212,USD
+2026-09-14,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,69.41,142,1,74.87,4791,USD
+2026-09-14,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,73.7,65,2,164.28,2107,USD
+2026-09-14,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,71.15,122,1,62.56,4424,USD
+2026-09-15,FB001,Facebook Prospecting,Facebook,New Customers,Sales,183.41,199,7,550.95,7137,USD
+2026-09-15,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,110.34,161,12,1181.34,6238,USD
+2026-09-15,IG001,Instagram Product Launch,Instagram,New Customers,Sales,118.78,118,6,459.51,5400,USD
+2026-09-15,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,90.08,125,9,0.00,3963,USD
+2026-09-15,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,101.6,180,7,754.93,5795,USD
+2026-09-15,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,70.39,150,2,157.41,8236,USD
+2026-09-15,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,95.48,86,2,175.71,2985,USD
+2026-09-15,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,54.44,75,1,59.63,2324,USD
+2026-09-16,FB001,Facebook Prospecting,Facebook,New Customers,Sales,139.12,148,5,419.59,11690,USD
+2026-09-16,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,119.74,170,9,877.32,8574,USD
+2026-09-16,IG001,Instagram Product Launch,Instagram,New Customers,Sales,161.3,173,6,427.56,5118,USD
+2026-09-16,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,79.25,103,8,0.00,3499,USD
+2026-09-16,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,96.86,145,4,444.61,10254,USD
+2026-09-16,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,57.76,114,1,73.17,4981,USD
+2026-09-16,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,86.05,80,2,171.98,2840,USD
+2026-09-16,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,54.5,89,1,61.0,6034,USD
+2026-09-17,FB001,Facebook Prospecting,Facebook,New Customers,Sales,157.22,153,4,324.49,6613,USD
+2026-09-17,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,114.43,128,8,704.06,8943,USD
+2026-09-17,IG001,Instagram Product Launch,Instagram,New Customers,Sales,122.87,152,5,356.62,6259,USD
+2026-09-17,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,86.42,105,9,0.00,3745,USD
+2026-09-17,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,76.55,108,3,338.48,4285,USD
+2026-09-17,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,64.2,136,1,65.54,4042,USD
+2026-09-17,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,84.24,70,1,81.42,2644,USD
+2026-09-17,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,49.29,83,1,62.45,2381,USD
+2026-09-18,FB001,Facebook Prospecting,Facebook,New Customers,Sales,131.34,128,4,364.0,7446,USD
+2026-09-18,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,105.95,138,8,789.02,3969,USD
+2026-09-18,IG001,Instagram Product Launch,Instagram,New Customers,Sales,129.1,142,6,496.76,4202,USD
+2026-09-18,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,83.9,128,11,0.00,8199,USD
+2026-09-18,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,78.26,140,3,311.88,5456,USD
+2026-09-18,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,59.57,135,2,149.85,6015,USD
+2026-09-18,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,91.37,74,2,182.45,2720,USD
+2026-09-18,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,70.41,109,1,66.92,3314,USD
+2026-09-19,FB001,Facebook Prospecting,Facebook,New Customers,Sales,175.25,212,5,413.45,7254,USD
+2026-09-19,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,107.91,148,7,668.3,5268,USD
+2026-09-19,IG001,Instagram Product Launch,Instagram,New Customers,Sales,164.79,187,8,578.97,14477,USD
+2026-09-19,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,92.42,136,9,0.00,9645,USD
+2026-09-19,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,106.63,151,5,572.33,4315,USD
+2026-09-19,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,69.48,156,1,75.69,6836,USD
+2026-09-19,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,90.15,73,1,90.52,2744,USD
+2026-09-19,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,59.8,103,1,62.83,3757,USD
+2026-09-20,FB001,Facebook Prospecting,Facebook,New Customers,Sales,177.18,197,7,576.5,5839,USD
+2026-09-20,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,118.17,149,9,797.28,7666,USD
+2026-09-20,IG001,Instagram Product Launch,Instagram,New Customers,Sales,166.33,195,8,693.7,7189,USD
+2026-09-20,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,96.62,138,9,0.00,6791,USD
+2026-09-20,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,99.23,149,5,493.87,6049,USD
+2026-09-20,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,76.12,162,2,133.1,4712,USD
+2026-09-20,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,88.7,87,2,179.81,3522,USD
+2026-09-20,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,50.24,66,1,64.5,4489,USD
+2026-09-21,FB001,Facebook Prospecting,Facebook,New Customers,Sales,175.59,185,6,516.92,10115,USD
+2026-09-21,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,119.06,133,7,650.6,6387,USD
+2026-09-21,IG001,Instagram Product Launch,Instagram,New Customers,Sales,163.62,185,9,762.76,10080,USD
+2026-09-21,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,106.02,151,15,0.00,6377,USD
+2026-09-21,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,101.54,170,5,534.13,4861,USD
+2026-09-21,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,64.73,151,2,139.54,6115,USD
+2026-09-21,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,86.48,80,2,166.92,2853,USD
+2026-09-21,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,61.72,102,1,59.07,3502,USD
+2026-09-22,FB001,Facebook Prospecting,Facebook,New Customers,Sales,167.72,161,5,444.08,5214,USD
+2026-09-22,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,125.19,161,7,644.3,6295,USD
+2026-09-22,IG001,Instagram Product Launch,Instagram,New Customers,Sales,160.7,164,7,555.87,7286,USD
+2026-09-22,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,103.45,148,13,0.00,9517,USD
+2026-09-22,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,88.9,122,3,327.14,4528,USD
+2026-09-22,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,74.15,140,2,140.54,7260,USD
+2026-09-22,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,92.44,78,2,161.48,5746,USD
+2026-09-22,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,63.15,85,1,68.21,3867,USD
+2026-09-23,FB001,Facebook Prospecting,Facebook,New Customers,Sales,130.1,132,5,425.16,4721,USD
+2026-09-23,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,121.94,181,13,1146.57,8777,USD
+2026-09-23,IG001,Instagram Product Launch,Instagram,New Customers,Sales,120.15,135,6,501.73,8485,USD
+2026-09-23,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,79.0,99,9,0.00,5645,USD
+2026-09-23,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,104.86,183,6,599.0,10239,USD
+2026-09-23,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,52.24,100,2,149.12,6397,USD
+2026-09-23,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,83.02,79,2,182.95,3631,USD
+2026-09-23,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,54.0,74,0,0.0,3202,USD
+2026-09-24,FB001,Facebook Prospecting,Facebook,New Customers,Sales,138.71,143,5,472.37,7610,USD
+2026-09-24,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,125.07,153,8,745.7,5509,USD
+2026-09-24,IG001,Instagram Product Launch,Instagram,New Customers,Sales,153.7,202,9,710.53,6159,USD
+2026-09-24,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,86.88,111,10,0.00,5521,USD
+2026-09-24,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,94.92,143,5,548.2,5265,USD
+2026-09-24,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,73.8,148,2,148.21,7746,USD
+2026-09-24,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,82.99,74,2,163.41,3939,USD
+2026-09-24,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,65.94,111,1,65.51,3232,USD
+2026-09-25,FB001,Facebook Prospecting,Facebook,New Customers,Sales,156.91,147,5,409.1,4747,USD
+2026-09-25,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,104.24,122,9,801.29,8328,USD
+2026-09-25,IG001,Instagram Product Launch,Instagram,New Customers,Sales,165.92,211,11,931.59,7363,USD
+2026-09-25,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,113.24,138,13,0.00,6760,USD
+2026-09-25,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,100.46,184,6,624.3,6697,USD
+2026-09-25,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,69.48,141,2,156.68,9730,USD
+2026-09-25,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,75.95,81,2,180.19,2451,USD
+2026-09-25,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,53.31,93,1,70.32,4908,USD
+2026-09-26,FB001,Facebook Prospecting,Facebook,New Customers,Sales,149.31,176,7,578.45,7544,USD
+2026-09-26,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,88.08,101,5,455.74,3683,USD
+2026-09-26,IG001,Instagram Product Launch,Instagram,New Customers,Sales,153.62,154,6,496.97,9901,USD
+2026-09-26,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,91.77,145,12,0.00,6780,USD
+2026-09-26,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,106.25,193,6,622.87,5699,USD
+2026-09-26,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,74.24,176,3,217.92,5103,USD
+2026-09-26,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,80.19,75,1,82.27,2381,USD
+2026-09-26,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,58.91,85,1,66.26,6805,USD
+2026-09-27,FB001,Facebook Prospecting,Facebook,New Customers,Sales,172.78,197,5,435.55,14509,USD
+2026-09-27,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,116.14,163,8,790.42,8335,USD
+2026-09-27,IG001,Instagram Product Launch,Instagram,New Customers,Sales,120.26,122,4,338.65,7959,USD
+2026-09-27,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,80.94,122,8,0.00,4485,USD
+2026-09-27,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,72.93,133,5,497.48,6839,USD
+2026-09-27,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,56.53,136,2,144.75,4665,USD
+2026-09-27,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,84.19,71,2,164.08,3010,USD
+2026-09-27,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,70.69,124,1,69.77,5168,USD
+2026-09-28,FB001,Facebook Prospecting,Facebook,New Customers,Sales,152.4,141,3,256.92,6639,USD
+2026-09-28,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,112.82,145,11,925.67,10463,USD
+2026-09-28,IG001,Instagram Product Launch,Instagram,New Customers,Sales,146.06,191,7,567.72,7760,USD
+2026-09-28,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,88.36,107,9,0.00,4769,USD
+2026-09-28,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,93.8,167,6,674.45,6192,USD
+2026-09-28,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,71.99,141,2,142.6,8171,USD
+2026-09-28,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,79.52,73,2,163.59,3346,USD
+2026-09-28,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,63.96,101,1,70.5,7457,USD
+2026-09-29,FB001,Facebook Prospecting,Facebook,New Customers,Sales,175.57,210,5,450.54,6847,USD
+2026-09-29,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,107.37,134,9,799.79,9047,USD
+2026-09-29,IG001,Instagram Product Launch,Instagram,New Customers,Sales,131.8,143,7,593.71,5003,USD
+2026-09-29,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,112.8,152,12,0.00,6010,USD
+2026-09-29,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,79.66,119,3,290.32,3785,USD
+2026-09-29,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,61.56,119,2,152.85,3785,USD
+2026-09-29,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,101.13,84,2,183.08,6665,USD
+2026-09-29,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,70.3,97,1,60.85,3444,USD
+2026-09-30,FB001,Facebook Prospecting,Facebook,New Customers,Sales,143.16,158,3,277.08,6314,USD
+2026-09-30,FB002,Facebook Retargeting,Facebook,Returning Visitors,Sales,100.83,145,10,833.64,4972,USD
+2026-09-30,IG001,Instagram Product Launch,Instagram,New Customers,Sales,124.05,144,6,461.68,5036,USD
+2026-09-30,IG002,Instagram Lead Generation,Instagram,Small Business Owners,Leads,105.52,144,9,0.00,10901,USD
+2026-09-30,PIN001,Pinterest Seasonal Collection,Pinterest,Home Decor Enthusiasts,Sales,77.67,117,4,400.86,4298,USD
+2026-09-30,PIN002,Pinterest Discovery,Pinterest,New Customers,Traffic,64.63,137,2,151.34,9372,USD
+2026-09-30,TW001,Twitter Product Promotion,Twitter,Tech Enthusiasts,Sales,82.62,80,2,177.52,2926,USD
+2026-09-30,TW002,Twitter Brand Awareness,Twitter,New Customers,Awareness,49.09,77,1,58.6,4067,USD

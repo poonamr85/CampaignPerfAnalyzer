@@ -1,0 +1,8 @@
+run = "streamlit run app.py --server.address=0.0.0.0 --server.port=8501"
+
+[[ports]]
+localPort = 8501
+externalPort = 80
+
+[deployment]
+run = ["sh", "-c", "streamlit run app.py --server.address=0.0.0.0 --server.port=8501"]
